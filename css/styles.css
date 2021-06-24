@@ -1,0 +1,172 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    color: black;
+}
+
+.top-container {
+    background-color: #171717;
+    position: relative;
+    padding: 100px;
+}
+
+.bottom-container {
+    background-color: #171717;
+    position: relative;
+    padding: 100px;
+    padding-bottom: 7px;
+}
+
+h1 {
+    width: 100%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /* font-size: 562.5%; 16px = 100% = 1em */
+    font-size: 5.625rem;
+    color: #DA0037;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #DA0037;
+    font-weight: 10px;
+    text-align: center;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #F54748;
+    font-weight: 800;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 395px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 178px;
+}
+
+.profile_picture {
+    width: 51%;
+    margin: 30px auto;
+}
+
+ul {
+    display: inline-block;
+}
+
+a {
+    color: #DA0037;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.img {
+    width: 56%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills {
+    margin: 20px auto;
+}
+
+.skills_text {
+    margin: 20px auto;
+}
+
+.profile {
+    width: 50%;
+    margin: auto;
+}
+
+.skills_image1 {
+    width: 25%;
+    margin: auto;
+    float: left;
+    margin-right: 30px;
+}
+
+.skills_image2 {
+    width: 25%;
+    margin: auto;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills_image3 {
+    width: 25%;
+    margin: auto;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-text {
+    margin: 5px auto;
+    width: 100%;
+    margin-top: 5px;
+}
+
+#h1_text {
+    width: 100%;
+    margin: 0px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /* font-size: 562.5%; 16px = 100% = 1em */
+    font-size: 3rem;
+    color: #DA0037;
+    line-height: 1;
+}
+
+#footer_text {
+    color: #EDEDED;
+    line-height: 5;
+    margin-top: -25px;
+}
+
+.link_container {
+    line-height: 4;
+}
+
+#heading {
+    position: relative;
+    margin: auto;
+    margin-bottom: -79px;
+    font-size: 3rem;
+}
+
+.another-section {
+    line-height: 2;
+}
+
+#another-text {
+    margin-top: 43px;
+}
+
+hr {
+    width: 5%;
+    margin: auto;
+    border-style: dotted;
+    border-bottom-style: none;
+    border-width: 6px;
+    border-color: #444444;
+}
